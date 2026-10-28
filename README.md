@@ -3,8 +3,8 @@
 > **An Autonomous Multimodal Food Intelligence Platform powered by Groq LPU Inference, Computer Vision, and Clinical Nutritional Science.**
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-tanishajain05%2FFoodVerse-181717?logo=github)](https://github.com/tanishajain05/FoodVerse)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShlokNaidu%2FFoodVerse&root-directory=frontend)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShlokNaidu/FoodVerse)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftanishajain05%2FFoodVerse&root-directory=frontend)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tanishajain05/FoodVerse)
 [![Groq LPU](https://img.shields.io/badge/Groq%20LPU-Ultra--Fast%20(~110ms)-f59e0b?style=for-the-badge&logo=fastapi)](https://groq.com)
 [![Multimodal Vision](https://img.shields.io/badge/Vision%20Model-Qwen--3.8%20Multimodal-8b5cf6?style=for-the-badge)](https://console.groq.com)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI%20Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com)
