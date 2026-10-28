@@ -2,7 +2,7 @@
 
 > **An Autonomous Multimodal Food Intelligence Platform powered by Groq LPU Inference, Computer Vision, and Clinical Nutritional Science.**
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-ShlokNaidu%2FFoodVerse-181717?style=for-the-badge&logo=github)](https://github.com/ShlokNaidu/FoodVerse)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-ShlokNaidu%2FFoodVerse-181717?style=for-the-badge&logo=github)](https://github.com/tanishajain05/FoodVerse.git).
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FShlokNaidu%2FFoodVerse&root-directory=frontend)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ShlokNaidu/FoodVerse)
 [![Groq LPU](https://img.shields.io/badge/Groq%20LPU-Ultra--Fast%20(~110ms)-f59e0b?style=for-the-badge&logo=fastapi)](https://groq.com)
